@@ -16,3 +16,6 @@ Agilent is a well-known manufacturer of microarray platforms, and they provide t
 7. Validation and Follow-up Analysis: Once you have identified genes of interest, you can validate their expression patterns using alternative methods like qPCR or RNA-seq. Follow-up analyses may involve network analysis, gene set enrichment analysis (GSEA), or further statistical modeling.
 
 It's important to note that the specific steps and tools within Agilent GeneSpring may vary depending on the software version and updates. It's recommended to consult the user guide or documentation provided by Agilent for detailed instructions on performing microarray data analysis using their software.
+
+This repository would help to understand Gene Expression Analysis to find differentially expressed genes for agilent microarray datasets from GEO
+
